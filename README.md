@@ -1,5 +1,10 @@
 # Benidorm UAV Dataset
 
+> Rafael Caballero, Pablo Jiménez, Francisco J. Pérez-Grau, Antidio Viguria and Aníbal Ollero. 2023. Towards Safe Operations in Urban Environments with UAS. **_UNDER REVISION_**
+
+This repository contains the attached data from the above mentioned publication. The following table provides each of the bag files with independent links. Given the large volume of data generated, the files have been compressed. Please remember to perform a _rosbag decompress_ before using them. More info [here](http://wiki.ros.org/rosbag/Commandline#rosbag_decompress).
+
+http://wiki.ros.org/rosbag/Commandline#rosbag_decompress
 
 |               File Name              | Test | Ouster Model | LIDAR Angle (degrees) | GPS Rel. Height (m) | Duration (min:s) | Size (GB) |
 |:------------------------------------:|:----:|:------------:|:---------------------:|:-------------------:|:----------------:|-----------|
@@ -14,3 +19,11 @@
 | t9_delorean_2021-04-2                |   9  | OS1-64       |           30          |          45         |       14:45      | 6.98      |
 | t10_delorean_2021-04-2               |  10  | OS1-64       |           15          |          20         |       9:30       | 5.54      |
 | [t11_delorean_2021-04-29-12-01-36.bag](https://fadacatecatlas-my.sharepoint.com/:u:/g/personal/rcaballero_catec_aero/EQODlOC6jTtPgawcKTsyJMsB1_OvbFzSlrqVVgxc_IlG5A?e=mOZsCZ) |  11  | OS1-64       |           0           |          20         |       8:23       | 4.76      |
+
+# Citation
+
+If you use this data for any academic work, please cite our original paper: TBD
+
+```bibtex
+UNDER REVISION
+```
