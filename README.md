@@ -2,9 +2,10 @@
 
 > Rafael Caballero, Pablo Jiménez, Francisco J. Pérez-Grau, Antidio Viguria and Aníbal Ollero. 2023. Towards Safe Operations in Urban Environments with UAS. **_UNDER REVISION_**
 
+[![](http://img.youtube.com/vi/h-YDWfSdaAo/0.jpg)](http://www.youtube.com/watch?v=h-YDWfSdaAo)
+
 This repository contains the attached data from the above mentioned publication. The following table provides each of the bag files with independent links. Given the large volume of data generated, the files have been compressed. Please remember to perform a _rosbag decompress_ before using them. More info [here](http://wiki.ros.org/rosbag/Commandline#rosbag_decompress).
 
-http://wiki.ros.org/rosbag/Commandline#rosbag_decompress
 
 |               File Name              | Test | Ouster Model | LIDAR Angle (degrees) | GPS Rel. Height (m) | Duration (min:s) | Size (GB) |
 |:------------------------------------:|:----:|:------------:|:---------------------:|:-------------------:|:----------------:|-----------|
@@ -27,3 +28,7 @@ If you use this data for any academic work, please cite our original paper: TBD
 ```bibtex
 UNDER REVISION
 ```
+
+# Funding
+
+This work has been performed within the context of DELOREAN project, funded by the European Commission under contract 870251.
