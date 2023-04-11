@@ -1,6 +1,6 @@
 # Benidorm UAV Dataset
 
-> Rafael Caballero, Pablo Jiménez, Francisco J. Pérez-Grau, Antidio Viguria and Aníbal Ollero. 2023. Towards Safe Operations in Urban Environments with UAS. **_UNDER REVISION_**
+> Rafael Caballero, Pablo Jiménez, Francisco J. Pérez-Grau, Antidio Viguria and Aníbal Ollero (2023). Towards Safe Operations in Urban Environments with UAS. International Conference on Unmanned Aircraft Systems (ICUAS). **_ACCEPTED FOR PUBLICATION_**
 
 [![](http://img.youtube.com/vi/h-YDWfSdaAo/0.jpg)](http://www.youtube.com/watch?v=h-YDWfSdaAo)
 
@@ -34,7 +34,7 @@ The original bag file for recalibration can be downloaded here: [imu_calib_bagfi
 If you use this data for any academic work, please cite our original paper: TBD
 
 ```bibtex
-UNDER REVISION
+COMING SOON
 ```
 
 # Funding
