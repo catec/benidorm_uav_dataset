@@ -2,6 +2,8 @@
 
 > Rafael Caballero, Pablo Jiménez, Francisco J. Pérez-Grau, Antidio Viguria and Aníbal Ollero (2023). Towards Safe Operations in Urban Environments with UAS. International Conference on Unmanned Aircraft Systems (ICUAS). **_ACCEPTED FOR PUBLICATION_**
 
+Paper link: [https://ieeexplore.ieee.org/document/10156360](https://ieeexplore.ieee.org/document/10156360)
+
 [![](http://img.youtube.com/vi/h-YDWfSdaAo/0.jpg)](http://www.youtube.com/watch?v=h-YDWfSdaAo)
 
 This repository contains the attached data from the above mentioned publication. The following table provides each of the bag files with independent links. Given the large volume of data generated, the files have been compressed. Please remember to perform a _rosbag decompress_ before using them. More info [here](http://wiki.ros.org/rosbag/Commandline#rosbag_decompress).
@@ -31,10 +33,18 @@ The original bag file for recalibration can be downloaded here: [imu_calib_bagfi
 
 # Citation
 
-If you use this data for any academic work, please cite our original paper: TBD
+If you use this data for any academic work, please cite our original paper:
 
 ```bibtex
-COMING SOON
+@INPROCEEDINGS{10156360,
+  author={Caballero, Rafael and Jiménez, Pablo and Pérez-Grau, Francisco J. and Viguria, Antidio and Ollero, Aníbal},
+  booktitle={2023 International Conference on Unmanned Aircraft Systems (ICUAS)}, 
+  title={Towards Safe Operations in Urban Environments with UAVs}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={336-342},
+  doi={10.1109/ICUAS57906.2023.10156360}}
 ```
 
 # Funding
